@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: DevSync
+  datasource:
+    url: jdbc:postgresql://localhost:5432/dev_sync
+    username: postgres
+    password: postgres
